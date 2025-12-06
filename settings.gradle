@@ -13,3 +13,12 @@ gradle.startParameter.excludedTaskNames << "lintVitalDevRelease"
 gradle.startParameter.excludedTaskNames << "lintVitalProdRelease"
 
 include 'wallet'
+wss://relay.getalby.com/v1
+wss://nos.lol
+wss://relay.damus.io
+wss://brb.io
+wss://relay.primal.net
+wss://ftp.halifax.rwth-aachen.de/nostr
+wss://eu.purplerelay.com
+wss://nostr.einundzwanzig.space
+wss://nostr.mom
